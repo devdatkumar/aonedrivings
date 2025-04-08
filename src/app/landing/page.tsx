@@ -242,7 +242,7 @@ function TestimonialsSection() {
                   />
                 </svg>
                 <p className="mb-6 italic text-muted-foreground">
-                  "{testimonial.quote}"
+                  {testimonial.quote}
                 </p>
               </div>
               <div className="pt-4 border-t">

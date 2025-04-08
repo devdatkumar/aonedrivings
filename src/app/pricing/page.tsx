@@ -135,7 +135,7 @@ const lessonPackages4 = [
   },
 ];
 
-const metadata: Metadata = {
+export const metadata: Metadata = {
   title: "Driving Lessons Pricing | Aonedrivings",
   description:
     "Affordable driving lesson packages in Toronto. Get professional training and road test preparation from certified instructors. Book now!",
