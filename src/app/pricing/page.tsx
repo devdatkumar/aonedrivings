@@ -1,6 +1,5 @@
 "use client";
 import type React from "react";
-import { Metadata } from "next";
 import { Check, X, Award, Clock, Car, FileCheck, Heart } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
